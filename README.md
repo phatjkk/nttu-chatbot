@@ -1,4 +1,4 @@
-# nttu-chatbot
+# NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG)
 NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG)
 
 Video Demo:
