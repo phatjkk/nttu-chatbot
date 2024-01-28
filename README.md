@@ -4,6 +4,9 @@ NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG)
 Video Demo:
 https://youtu.be/lpYw6K844XY
 
+Live front-end (no server):
+https://phatjkk.github.io/nttu
+
 Images Demo:
 
 ![image](https://github.com/phatjkk/nttu-chatbot/assets/48487157/c3e0febd-b723-4178-80ca-4e842b8761e7)
