@@ -9,10 +9,10 @@ function IssuePage() {
   function sendMail() {
     emailjs
       .send(
-        "service_whplc6w",
+        "<>",
         "template_azmnoyw",
         templateParams,
-        "uqzXZRqg0RSUVVI_M"
+        "<>"
       )
       .then(
         function (response) {
