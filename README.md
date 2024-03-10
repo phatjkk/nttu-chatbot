@@ -1,5 +1,5 @@
-# NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG)
-NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG)
+# NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese
+NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese
 
 Video Demo:
 https://youtu.be/lpYw6K844XY
