@@ -8,7 +8,7 @@ Live front-end (no server):
 https://phatjkk.github.io/nttu
 
 Slide:
-https://www.canva.com/design/DAF1VQ-qXpc/or3gXuyHI8T3A11__UuExg/edit?utm_content=DAF1VQ-qXpc&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+https://www.canva.com/design/DAF1VQ-qXpc/iAZ9gtOjTw5IAervLQPjPA/view?utm_content=DAF1VQ-qXpc&utm_campaign=designshare&utm_medium=link&utm_source=editor
 
 Images Demo:
 
