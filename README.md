@@ -8,6 +8,7 @@ Live front-end (no server):
 https://phatjkk.github.io/nttu
 
 Report: [https://phatjk.io.vn/?product=bao-cao-khoa-luan-nttu-chatbot-rag-system-in-vietnamese](https://phatjk.io.vn/?product=bao-cao-khoa-luan-nttu-chatbot-rag-system-in-vietnamese)
+
 Slide: [https://phatjk.io.vn/?product=slide-rag-nttu-chatbot](https://phatjk.io.vn/?product=slide-rag-nttu-chatbot)
 
 Images Demo:
