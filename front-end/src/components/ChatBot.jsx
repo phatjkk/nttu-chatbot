@@ -62,7 +62,9 @@ function ChatBot(props) {
       SetDataChat((prev) => [...prev, ["end", [promptInput, sourceData]]]);
       SetChatHistory((prev) => [promptInput, ...prev]);
 
-      fetch("https://toad-vast-civet.ngrok-free.app/rag/" + sourceData + "?q=" + promptInput,
+      // fetch("https://toad-vast-civet.ngrok-free.app/rag/" + sourceData + "?q=" + promptInput,
+      // Cuong thay base crul mới
+      fetch("https://briefly-knowing-treefrog.ngrok-free.app/rag/" + sourceData + "?q=" + promptInput,
       {
         method: "get",
         headers: new Headers({
