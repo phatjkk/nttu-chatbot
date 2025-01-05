@@ -1,3 +1,8 @@
+
+# Support Project cho 1 bạn làm đồ án tốt nghiệp, 
+- Run theo code đã có. Chỉnh sửa các phần code các hàm cập nhật cho hợp update mới. 
+
+
 # NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese
 NTTU Chatbot - A student support chatbot using LLM + Document Retriever (RAG) in Vietnamese
 
